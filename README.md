@@ -1,1 +1,0 @@
-# predictor-app-prognosis
